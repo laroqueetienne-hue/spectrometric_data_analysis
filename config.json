@@ -1,0 +1,7 @@
+{
+  "dossier_donnees_brutes": "donnees/brutes",
+  "dossier_donnees_converties": "donnees/converties",
+  "dossier_resultats": "resultats",
+  "mesures": [],
+  "traitements": ["moyenne_ecart_type"]
+}
