@@ -1,0 +1,9 @@
+Placez ici UN DOSSIER PAR MESURE, contenant les fichiers .txt du spectrometre.
+
+Exemple :
+    donnees/brutes/mesure_air/D2J19791__0__13-42-47-675.txt
+    donnees/brutes/mesure_air/D2J19791__0__13-42-48-102.txt
+    ...
+    donnees/brutes/mesure_hydrogene/...
+
+Ne modifiez jamais ces fichiers : ce sont vos originaux.
